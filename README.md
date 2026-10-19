@@ -24,7 +24,7 @@ Une fois que nous avions compris et acquis les bases, chacun à commencé les re
 1. La configuration de _MariaDB_, _Apache_ et _Forgejo_ ;
 2. Ajouter le fond d'écran personnalisé ;
 3. Ajouter les icônes personnalisées ;
-4. Créer le fichier $HOME à partir du _/skel_ ;
+4. Créer le fichier $HOME à partir du _/etc/skel_ ;
 5. Trouver des idées de personnalisation supplémentaire ;
 ____
 
